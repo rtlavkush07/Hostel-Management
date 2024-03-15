@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+  font-family: "Audiowide", sans-serif;
+}
+.header {
+    display: inline;
+    background-color: rgb(226, 226, 219);
+    margin-left: 40px;
+    margin-top: 10px;
+  
+}
+
+.header .menu-left ul li{
+    float: left;
+ align-content: center;
+ padding: 20px;
+ background-color: red;
+ display: inline;
+
+    list-style: none;
+    
+}
+.header .menu-left a{
+    display: block;
+   
+}
+
+
+.header .menu_right ul li{
+    
+    float: right;
+ align-items: center;
+ padding: 20px;
+ background-color: red;
+
+    list-style: none;
+
+
+}
